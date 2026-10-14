@@ -1,0 +1,15 @@
+node_modules/
+.next/
+dist-next/
+.test-build/
+.harness-build/
+# Local configuration and secrets (server-side only; never commit)
+.env.local
+.env*.local
+# Databases, uploads, backups, transfer snapshots and reports contain personal data
+data/
+backups/
+migration-reports/
+tests/db-*/
+loadtest/accounts.csv
+loadtest/results-*.json

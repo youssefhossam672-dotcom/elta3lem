@@ -1,0 +1,34 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/jgRmKy466XxGBDdGzKhH8m.git",
+    "expiration": "2026-09-03T16:10:36.059Z",
+    "token": "art_v2_x_166fab49877b359a51af55a39393d043dc852285?expires=1788451836",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "lumina-academy-login",
+  "path": "/home/ubuntu/lumina-academy-login",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "ZizsShY5pr6EAMzh6pa8mc",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "kATXN42neNwaMXumbuheJF",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Youssef Hossam",
+    "OWNER_OPEN_ID": "Y3s6j2DZK7ACVRDwCumoho",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "be9d001d-afd1-4163-8037-aa0e656c3706",
+    "VITE_APP_ID": "jgRmKy466XxGBDdGzKhH8m",
+    "VITE_APP_LOGO": "https://files.manuscdn.com/user_upload_by_module/web_dev_logo/310519663927322150/PGcFFtxezVABJaye.png",
+    "VITE_APP_TITLE": "Lumina Academy Login",
+    "VITE_FRONTEND_FORGE_API_KEY": "7orzqYH36Nr7dSVisCMUGn",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
